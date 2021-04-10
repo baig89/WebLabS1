@@ -1,0 +1,909 @@
+<!DOCTYPE html>
+
+	<title>
+							| Annals of King Edward Medical University
+			</title>
+
+	
+<style>
+</style></head>
+<body class="pkp_page_issue pkp_op_view" dir="ltr">
+
+	<div class="pkp_structure_page">
+
+				<header class="pkp_structure_head" id="headerNavigationContainer" role="banner">
+			<div class="pkp_head_wrapper">
+
+				<div class="pkp_site_name_wrapper">
+					<button class="pkp_site_nav_toggle">
+						<span>Open Menu</span>
+					</button>
+					<div class="pkp_site_name">
+																<a href="													https://www.annalskemu.org/journal/index.php/index
+											" class="is_text">Annals of King Edward Medical University</a>
+										</div>
+									</div>
+
+								 <nav class="cmp_skip_to_content">
+	<a href="#pkp_content_main">Skip to main content</a>
+	<a href="#siteNav">Skip to main navigation menu</a>
+		<a href="#pkp_content_footer">Skip to site footer</a>
+</nav>
+
+				
+				<nav class="pkp_site_nav_menu" aria-label="Site Navigation">
+					<a id="siteNav"></a>
+					<div class="pkp_navigation_primary_row">
+						<div class="pkp_navigation_primary_wrapper">
+																				<ul id="navigationPrimary" class="pkp_navigation_primary pkp_nav_list">
+								<li class="">
+				<a href="https://www.annalskemu.org/journal/index.php/annals/issue/current">
+					Current
+				</a>
+							</li>
+								<li class="">
+				<a href="https://www.annalskemu.org/journal/index.php/annals/issue/archive">
+					Archives
+				</a>
+							</li>
+								<li class="">
+				<a href="https://www.annalskemu.org/journal/index.php/annals/announcement">
+					Announcements
+				</a>
+							</li>
+								<li class="">
+				<a href="#">
+					About
+				</a>
+									<ul class="">
+																					<li class="">
+									<a href="https://www.annalskemu.org/journal/index.php/annals/about">
+										About the Journal
+									</a>
+								</li>
+																												<li class="">
+									<a href="https://www.annalskemu.org/journal/index.php/annals/about/submissions">
+										Submissions
+									</a>
+								</li>
+																												<li class="">
+									<a href="https://www.annalskemu.org/journal/index.php/annals/about/editorialTeam">
+										Editorial Team
+									</a>
+								</li>
+																												<li class="">
+									<a href="https://www.annalskemu.org/journal/index.php/annals/about/contact">
+										Contact
+									</a>
+								</li>
+																		</ul>
+							</li>
+			</ul>
+
+				
+
+																								
+	<form class="pkp_search pkp_search_desktop" action="https://www.annalskemu.org/journal/index.php/annals/search/search" method="get" role="search" aria-label="Article Search">
+		<input type="hidden" name="csrfToken" value="7fc5447943e1e5f539225132c1a507d0">
+				
+			<input name="query" value="" type="text" aria-label="Search Query">
+		
+
+		<button type="submit">
+			Search
+		</button>
+		<div class="search_controls" aria-hidden="true">
+			<a href="https://www.annalskemu.org/journal/index.php/annals/search/search" class="headerSearchPrompt search_prompt" aria-hidden="true">
+				Search
+			</a>
+			<a href="#" class="search_cancel headerSearchCancel" aria-hidden="true"></a>
+			<span class="search_loading" aria-hidden="true"></span>
+		</div>
+	</form>
+													</div>
+					</div>
+					<div class="pkp_navigation_user_wrapper" id="navigationUserWrapper">
+							<ul id="navigationUser" class="pkp_navigation_user pkp_nav_list">
+								<li class="profile">
+				<a href="https://www.annalskemu.org/journal/index.php/annals/user/register">
+					Register
+				</a>
+							</li>
+								<li class="profile">
+				<a href="https://www.annalskemu.org/journal/index.php/annals/login">
+					Login
+				</a>
+							</li>
+										</ul>
+
+					</div>
+																		
+	<form class="pkp_search pkp_search_mobile" action="https://www.annalskemu.org/journal/index.php/annals/search/search" method="get" role="search" aria-label="Article Search">
+		<input type="hidden" name="csrfToken" value="7fc5447943e1e5f539225132c1a507d0">
+				
+			<input name="query" value="" type="text" aria-label="Search Query">
+		
+
+		<button type="submit">
+			Search
+		</button>
+		<div class="search_controls" aria-hidden="true">
+			<a href="https://www.annalskemu.org/journal/index.php/annals/search/search" class="headerSearchPrompt search_prompt" aria-hidden="true">
+				Search
+			</a>
+			<a href="#" class="search_cancel headerSearchCancel" aria-hidden="true"></a>
+			<span class="search_loading" aria-hidden="true"></span>
+		</div>
+	</form>
+									</nav>
+			</div><!-- .pkp_head_wrapper -->
+		</header><!-- .pkp_structure_head -->
+
+						<div class="pkp_structure_content has_sidebar">
+			<div class="pkp_structure_main" role="main">
+				<a id="pkp_content_main"></a>
+
+<div class="page page_issue">
+
+				<nav class="cmp_breadcrumbs" role="navigation" aria-label="You are here:">
+	<ol>
+		<li>
+			<a href="https://www.annalskemu.org/journal/index.php/annals/index">
+				Home
+			</a>
+			<span class="separator">/</span>
+		</li>
+		<li>
+			<a href="https://www.annalskemu.org/journal/index.php/annals/issue/archive">
+				Archives
+			</a>
+			<span class="separator">/</span>
+		</li>
+		<li class="current" aria-current="page">
+			<span aria-current="page">
+									Vol. 24 No. S (2018): AKEMU
+							</span>
+		</li>
+	</ol>
+</nav>
+		<h1>
+			Vol. 24 No. S (2018): AKEMU
+		</h1>
+		<div class="obj_issue_toc">
+
+		
+		<div class="heading">
+
+						
+				
+																		<div class="pub_id doi">
+					<span class="type">
+						DOI:
+					</span>
+					<span class="id">
+													<a href="https://doi.org/10.21649/akemu.v24iS">
+								https://doi.org/10.21649/akemu.v24iS
+							</a>
+											</span>
+				</div>
+					
+							<div class="published">
+				<span class="label">
+					Published:
+				</span>
+				<span class="value">
+					2018-09-27
+				</span>
+			</div>
+			</div>
+
+		
+		<div class="sections">
+			<div class="section">
+									<h2>
+					Editorial
+				</h2>
+						<ul class="cmp_article_list articles">
+									<li>
+						
+	
+<div class="obj_article_summary">
+	
+	<div class="title">
+		<a id="article-2502" href="https://www.annalskemu.org/journal/index.php/annals/article/view/2502">
+			Counseling in Medical Institutions; Challenges and Solutions
+					</a>
+	</div>
+
+		<div class="meta">
+				<div class="authors">
+			Saira Afzal
+		</div>
+		
+							<div class="pages">
+				826-828
+			</div>
+		
+		
+	</div>
+	
+			<ul class="galleys_links">
+																									<li>
+																										
+	
+							
+
+<a class="obj_galley_link pdf" href="https://www.annalskemu.org/journal/index.php/annals/article/view/2502/1828" aria-labelledby="article-2502">
+
+		
+	PDF
+
+	</a>
+				</li>
+					</ul>
+	
+	
+</div>
+					</li>
+							</ul>
+				</div>
+			<div class="section">
+									<h2>
+					Guest Editorials
+				</h2>
+						<ul class="cmp_article_list articles">
+									<li>
+						
+	
+<div class="obj_article_summary">
+	
+	<div class="title">
+		<a id="article-2503" href="https://www.annalskemu.org/journal/index.php/annals/article/view/2503">
+			Spending on Health is a Complex Phenomenon in our Country
+					</a>
+	</div>
+
+		<div class="meta">
+				<div class="authors">
+			Sumair Anwar
+		</div>
+		
+							<div class="pages">
+				829-830
+			</div>
+		
+		
+	</div>
+	
+			<ul class="galleys_links">
+																									<li>
+																										
+	
+							
+
+<a class="obj_galley_link pdf" href="https://www.annalskemu.org/journal/index.php/annals/article/view/2503/1815" aria-labelledby="article-2503">
+
+		
+	PDF
+
+	</a>
+				</li>
+					</ul>
+	
+	
+</div>
+					</li>
+							</ul>
+				</div>
+			<div class="section">
+									<h2>
+					Articles
+				</h2>
+						<ul class="cmp_article_list articles">
+									<li>
+						
+	
+<div class="obj_article_summary">
+	
+	<div class="title">
+		<a id="article-2506" href="https://www.annalskemu.org/journal/index.php/annals/article/view/2506">
+			Indications and Complications of Obstetric Hysterectomy in a Tertiary Care Hospital of Lahore
+					</a>
+	</div>
+
+		<div class="meta">
+				<div class="authors">
+			Shamila Ijaz Munir, Riffat Iqbal, Shamsa Humayun, Saima Chaudhary
+		</div>
+		
+							<div class="pages">
+				831-835
+			</div>
+		
+		
+	</div>
+	
+			<ul class="galleys_links">
+																									<li>
+																										
+	
+							
+
+<a class="obj_galley_link pdf" href="https://www.annalskemu.org/journal/index.php/annals/article/view/2506/1819" aria-labelledby="article-2506">
+
+		
+	PDF
+
+	</a>
+				</li>
+					</ul>
+	
+	
+</div>
+					</li>
+									<li>
+						
+	
+<div class="obj_article_summary">
+	
+	<div class="title">
+		<a id="article-2518" href="https://www.annalskemu.org/journal/index.php/annals/article/view/2518">
+			Effect of Internet Addiction on Dietary Behavior and Lifestyle Characteristics Among University Students
+					</a>
+	</div>
+
+		<div class="meta">
+				<div class="authors">
+			Hafsa Kamran, Asma Afreen, Zaheer Ahmed
+		</div>
+		
+							<div class="pages">
+				836-841
+			</div>
+		
+		
+	</div>
+	
+			<ul class="galleys_links">
+																									<li>
+																										
+	
+							
+
+<a class="obj_galley_link pdf" href="https://www.annalskemu.org/journal/index.php/annals/article/view/2518/1827" aria-labelledby="article-2518">
+
+		
+	PDF
+
+	</a>
+				</li>
+					</ul>
+	
+	
+</div>
+					</li>
+									<li>
+						
+	
+<div class="obj_article_summary">
+	
+	<div class="title">
+		<a id="article-2504" href="https://www.annalskemu.org/journal/index.php/annals/article/view/2504">
+			Atypical Antipsychotics and Dyslipidemia- Experience at Psychiatry Hospital Hyderabad, Pakistan.
+					</a>
+	</div>
+
+		<div class="meta">
+				<div class="authors">
+			Quratulain Khuhro, Naseem Aslam Channa, Safdar Ali Amur, Muzna Para, Muhammad Haneef Mugheri, Najaf Ali Soomro
+		</div>
+		
+							<div class="pages">
+				842-847
+			</div>
+		
+		
+	</div>
+	
+			<ul class="galleys_links">
+																									<li>
+																										
+	
+							
+
+<a class="obj_galley_link pdf" href="https://www.annalskemu.org/journal/index.php/annals/article/view/2504/1820" aria-labelledby="article-2504">
+
+		
+	PDF
+
+	</a>
+				</li>
+					</ul>
+	
+	
+</div>
+					</li>
+									<li>
+						
+	
+<div class="obj_article_summary">
+	
+	<div class="title">
+		<a id="article-2546" href="https://www.annalskemu.org/journal/index.php/annals/article/view/2546">
+			Effect of Production of Multiple Keloids on Health of the Animal
+					</a>
+	</div>
+
+		<div class="meta">
+				<div class="authors">
+			Abdul Mannan Babar, Abdul Hannan Nagi
+		</div>
+		
+							<div class="pages">
+				848-852
+			</div>
+		
+		
+	</div>
+	
+			<ul class="galleys_links">
+																									<li>
+																										
+	
+							
+
+<a class="obj_galley_link pdf" href="https://www.annalskemu.org/journal/index.php/annals/article/view/2546/1831" aria-labelledby="article-2546">
+
+		
+	PDF
+
+	</a>
+				</li>
+					</ul>
+	
+	
+</div>
+					</li>
+									<li>
+						
+	
+<div class="obj_article_summary">
+	
+	<div class="title">
+		<a id="article-2551" href="https://www.annalskemu.org/journal/index.php/annals/article/view/2551">
+			In Vitro Cytotoxic Potential of Plant Terpenes and Selected Medicinal Plants of Pakistan against NIH 3T3 Cell Line.
+					</a>
+	</div>
+
+		<div class="meta">
+				<div class="authors">
+			Shazia Kanwal Malik, Maqsood Ahmed, Farah Khan
+		</div>
+		
+							<div class="pages">
+				853-858
+			</div>
+		
+		
+	</div>
+	
+			<ul class="galleys_links">
+																									<li>
+																										
+	
+							
+
+<a class="obj_galley_link pdf" href="https://www.annalskemu.org/journal/index.php/annals/article/view/2551/1832" aria-labelledby="article-2551">
+
+		
+	PDF
+
+	</a>
+				</li>
+					</ul>
+	
+	
+</div>
+					</li>
+									<li>
+						
+	
+<div class="obj_article_summary">
+	
+	<div class="title">
+		<a id="article-2537" href="https://www.annalskemu.org/journal/index.php/annals/article/view/2537">
+			Management Options of Sacrococcygeal Pilonidal Disease.
+					</a>
+	</div>
+
+		<div class="meta">
+				<div class="authors">
+			Zakariya Rashid, Abdur Rashid Ti (M), Ghulam Mustafa
+		</div>
+		
+							<div class="pages">
+				859-862
+			</div>
+		
+		
+	</div>
+	
+			<ul class="galleys_links">
+																									<li>
+																										
+	
+							
+
+<a class="obj_galley_link pdf" href="https://www.annalskemu.org/journal/index.php/annals/article/view/2537/1830" aria-labelledby="article-2537">
+
+		
+	PDF
+
+	</a>
+				</li>
+					</ul>
+	
+	
+</div>
+					</li>
+									<li>
+						
+	
+<div class="obj_article_summary">
+	
+	<div class="title">
+		<a id="article-2569" href="https://www.annalskemu.org/journal/index.php/annals/article/view/2569">
+			Thyroid Hormones Pattern in Preeclampsia.
+					</a>
+	</div>
+
+		<div class="meta">
+				<div class="authors">
+			Rabia Sattar, Ejaz Ahmed, Sana Qanber Abbasi
+		</div>
+		
+							<div class="pages">
+				863-866
+			</div>
+		
+		
+	</div>
+	
+			<ul class="galleys_links">
+																									<li>
+																										
+	
+							
+
+<a class="obj_galley_link pdf" href="https://www.annalskemu.org/journal/index.php/annals/article/view/2569/1833" aria-labelledby="article-2569">
+
+		
+	PDF
+
+	</a>
+				</li>
+					</ul>
+	
+	
+</div>
+					</li>
+									<li>
+						
+	
+<div class="obj_article_summary">
+	
+	<div class="title">
+		<a id="article-2570" href="https://www.annalskemu.org/journal/index.php/annals/article/view/2570">
+			Dietary Intake Pattern Associated with General and Central Obesity Among Professional Drivers of Multan, Pakistan.
+					</a>
+	</div>
+
+		<div class="meta">
+				<div class="authors">
+			Muhammad Asif, Muhammad Aslam, Saima Altaf
+		</div>
+		
+							<div class="pages">
+				867-871
+			</div>
+		
+		
+	</div>
+	
+			<ul class="galleys_links">
+																									<li>
+																										
+	
+							
+
+<a class="obj_galley_link pdf" href="https://www.annalskemu.org/journal/index.php/annals/article/view/2570/1834" aria-labelledby="article-2570">
+
+		
+	PDF
+
+	</a>
+				</li>
+					</ul>
+	
+	
+</div>
+					</li>
+									<li>
+						
+	
+<div class="obj_article_summary">
+	
+	<div class="title">
+		<a id="article-2573" href="https://www.annalskemu.org/journal/index.php/annals/article/view/2573">
+			Gender Differences in Nutritional Quality of Life of Young and Old Adults.
+					</a>
+	</div>
+
+		<div class="meta">
+				<div class="authors">
+			Fatima Javed Saleem, Farhat Jamil, Ruhi Khalid
+		</div>
+		
+							<div class="pages">
+				872-878
+			</div>
+		
+		
+	</div>
+	
+			<ul class="galleys_links">
+																									<li>
+																										
+	
+							
+
+<a class="obj_galley_link pdf" href="https://www.annalskemu.org/journal/index.php/annals/article/view/2573/1835" aria-labelledby="article-2573">
+
+		
+	PDF
+
+	</a>
+				</li>
+					</ul>
+	
+	
+</div>
+					</li>
+									<li>
+						
+	
+<div class="obj_article_summary">
+	
+	<div class="title">
+		<a id="article-2574" href="https://www.annalskemu.org/journal/index.php/annals/article/view/2574">
+			Visual Inspection with Acetic Acid-an Acceptable Option in Screening of Cervical Cancer.
+					</a>
+	</div>
+
+		<div class="meta">
+				<div class="authors">
+			Summera Aslam, Ahmed Zunair Wasim, Lubna Javed, Tayyiba Wasim
+		</div>
+		
+							<div class="pages">
+				879-883
+			</div>
+		
+		
+	</div>
+	
+			<ul class="galleys_links">
+																									<li>
+																										
+	
+							
+
+<a class="obj_galley_link pdf" href="https://www.annalskemu.org/journal/index.php/annals/article/view/2574/1836" aria-labelledby="article-2574">
+
+		
+	PDF
+
+	</a>
+				</li>
+					</ul>
+	
+	
+</div>
+					</li>
+									<li>
+						
+	
+<div class="obj_article_summary">
+	
+	<div class="title">
+		<a id="article-2575" href="https://www.annalskemu.org/journal/index.php/annals/article/view/2575">
+			Dermotraction as a Simple and Effective Technique for Fasciotomy Wound Closure.
+					</a>
+	</div>
+
+		<div class="meta">
+				<div class="authors">
+			Kazi Muhammad Saeed, Raza Elahi Rana, Faisal Masood, Syed Faraz ul Hassan Shah Gillani
+		</div>
+		
+							<div class="pages">
+				884-888
+			</div>
+		
+		
+	</div>
+	
+			<ul class="galleys_links">
+																									<li>
+																										
+	
+							
+
+<a class="obj_galley_link pdf" href="https://www.annalskemu.org/journal/index.php/annals/article/view/2575/1837" aria-labelledby="article-2575">
+
+		
+	PDF
+
+	</a>
+				</li>
+					</ul>
+	
+	
+</div>
+					</li>
+									<li>
+						
+	
+<div class="obj_article_summary">
+	
+	<div class="title">
+		<a id="article-2581" href="https://www.annalskemu.org/journal/index.php/annals/article/view/2581">
+			Efficacy and Safety of Intrauterine Balloon Tamponadeversus Uterovaginal Roll Gauze Packing in Patient Presenting with Primary Postpartum Hemorrhage after Normal Vaginal Delivery.
+					</a>
+	</div>
+
+		<div class="meta">
+				<div class="authors">
+			Nomia Ashraf, Afroze Ashraf, Kiran Khursheed
+		</div>
+		
+							<div class="pages">
+				889-892
+			</div>
+		
+		
+	</div>
+	
+			<ul class="galleys_links">
+																									<li>
+																										
+	
+							
+
+<a class="obj_galley_link pdf" href="https://www.annalskemu.org/journal/index.php/annals/article/view/2581/1840" aria-labelledby="article-2581">
+
+		
+	PDF
+
+	</a>
+				</li>
+					</ul>
+	
+	
+</div>
+					</li>
+									<li>
+						
+	
+<div class="obj_article_summary">
+	
+	<div class="title">
+		<a id="article-2601" href="https://www.annalskemu.org/journal/index.php/annals/article/view/2601">
+			Foreign Bodies Presentation at Otorhinolaryngology Emergencies in A Tertiary Care Hospital
+					</a>
+	</div>
+
+		<div class="meta">
+				<div class="authors">
+			Taimoor Akram Khan, Hafiz Mudabbar Mahboob, Iqra Tahir, Muhammad Nasir, Asad Ali, Irfan Abbas, Ali Akram Khan
+		</div>
+		
+							<div class="pages">
+				893-896
+			</div>
+		
+		
+	</div>
+	
+			<ul class="galleys_links">
+																									<li>
+																										
+	
+							
+
+<a class="obj_galley_link pdf" href="https://www.annalskemu.org/journal/index.php/annals/article/view/2601/1844" aria-labelledby="article-2601">
+
+		
+	PDF
+
+	</a>
+				</li>
+					</ul>
+	
+	
+</div>
+					</li>
+									<li>
+						
+	
+<div class="obj_article_summary">
+	
+	<div class="title">
+		<a id="article-2602" href="https://www.annalskemu.org/journal/index.php/annals/article/view/2602">
+			Sleep Disorders as Predictor of Health-Related Quality of Life in Patients with COPD
+					</a>
+	</div>
+
+		<div class="meta">
+				<div class="authors">
+			Nudra Malik, Amina Muazzam
+		</div>
+		
+							<div class="pages">
+				897-901
+			</div>
+		
+		
+	</div>
+	
+			<ul class="galleys_links">
+																									<li>
+																										
+	
+							
+
+<a class="obj_galley_link pdf" href="https://www.annalskemu.org/journal/index.php/annals/article/view/2602/1845" aria-labelledby="article-2602">
+
+		
+	PDF
+
+	</a>
+				</li>
+					</ul>
+	
+	
+</div>
+					</li>
+							</ul>
+				</div>
+		</div><!-- .sections -->
+</div>
+	</div>
+
+	</div><!-- pkp_structure_main -->
+
+							</div><!-- pkp_structure_content -->
+
+<div class="pkp_structure_footer_wrapper" role="contentinfo">
+	<a id="pkp_content_footer"></a>
+
+	<div class="pkp_structure_footer">
+
+					<div class="pkp_footer_content">
+				<center>
+<p>ISSN :&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2079-0694 (Online)&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;&nbsp; 2079-7192(Print)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Previous ISSN : 1684-6680 (Annals of KEMC)</p>
+<p>Developed By:&nbsp; <a href="mailto:it@kemu.edu.pk" target="_blank" rel="noopener">IT Department, King Edward Medical University</a></p>
+</center>
+			</div>
+		
+		<div class="pkp_brand_footer" role="complementary">
+			<a href="https://www.annalskemu.org/journal/index.php/annals/about/aboutThisPublishingSystem">
+				<img alt="About this Publishing System" src="https://www.annalskemu.org/journal/templates/images/ojs_brand.png">
+			</a>
+		</div>
+	</div>
+</div><!-- pkp_structure_footer_wrapper -->
+
+</div><!-- pkp_structure_page -->
+
+</body></html>
